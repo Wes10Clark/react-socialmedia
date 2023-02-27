@@ -5,7 +5,7 @@ const Topbar = () => {
   return (
     <div className="topbarContainer">
       <div className="topbarLeft">
-        <span className="logo">LamaSocial</span>
+        <span className="logo">SheckBook</span>
       </div>
       <div className="topbarCenter">
         <div className="searchBar">
